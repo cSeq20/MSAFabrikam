@@ -11,6 +11,11 @@ C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\MvvmHelpers.Bootstrap.dll
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\MvvmHelpers.Core.dll
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Plugin.CurrentActivity.dll
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Plugin.Geolocator.dll
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Plugin.Permissions.dll
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\Splat.dll
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\android\assets\SQLitePCLRaw.core.dll

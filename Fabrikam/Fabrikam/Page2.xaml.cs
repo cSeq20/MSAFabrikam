@@ -15,18 +15,6 @@ namespace Fabrikam
             
         }
 
-        //async void add() {
-        //    MenuTable test = new MenuTable()
-        //    {
-        //        MenuName = "Menu 3",
-        //        Desc = "Hello World",
-        //        TotalPrice = 30
-        //    };
-
-        //   await AzureManager.AzureManagerInstance.AddMenu(test);
-
-        //}
-
         public async void DeleteMenu(object sender, EventArgs e)
         {
             var selected = (MenuItem)sender;
@@ -35,6 +23,9 @@ namespace Fabrikam
             LoadData();
         }
 
+        /**
+         * Setup the listview with the table 
+         */ 
         async void LoadData() {
             IEnumerable<MenuTable> menuTable = await AzureManager.AzureManagerInstance.GetMenu();
             menus.ItemsSource = menuTable;

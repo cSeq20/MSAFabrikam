@@ -8,6 +8,9 @@
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\MvvmHelpers.Android\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\MvvmHelpers.Bootstrap\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Splat\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
@@ -25,6 +28,9 @@
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmHelpers.Android\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmHelpers.Bootstrap\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Splat\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\assets</ResolvedAssetDirectory>
@@ -43,6 +49,9 @@
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\MvvmHelpers.Android.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\MvvmHelpers.Bootstrap.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.Geolocator.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\Splat.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>

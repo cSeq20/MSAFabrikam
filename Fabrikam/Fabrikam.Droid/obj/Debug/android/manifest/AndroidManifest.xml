@@ -12,7 +12,8 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-feature android:glEsVersion="0x00020000" android:required="true" />
-  <application android:label="Fabrikam.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="Fabrikam.Droid" android:icon="@drawable/f72" android:name="md5f922b01fea0096e8b75fd9e2fc3e496c.MainApplication" android:allowBackup="true" android:debuggable="true">
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCsvu70bdcm6kiECRUEpfb-f3bKguH8j_4" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Fabrikam" android:theme="@style/MainTheme" android:name="md5f922b01fea0096e8b75fd9e2fc3e496c.MainActivity">
       <intent-filter>
@@ -31,5 +32,4 @@
       </intent-filter>
     </receiver>
   </application>
-  <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCsvu70bdcm6kiECRUEpfb-f3bKguH8j_4" />
 </manifest>

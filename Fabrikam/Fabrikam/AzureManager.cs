@@ -35,16 +35,25 @@ namespace Fabrikam
             }
         }
 
+        /**
+         * Delete data from table
+         */
         public async Task RemoveMenu(MenuTable menuTable)
         {
             await this.menuTable.DeleteAsync(menuTable);
         }
 
+        /**
+         * Add a menutable item to the table in azure 
+         */
         public async Task AddMenu(MenuTable menuTable)
         {
             await this.menuTable.InsertAsync(menuTable);
         }
 
+        /**
+         * Get all items from azure table and return a enumarable. 
+         */
         public async Task<IEnumerable<MenuTable>> GetMenu()
         {
             return await this.menuTable.ToEnumerableAsync();
