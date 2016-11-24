@@ -7,7 +7,7 @@
    <TabbedPage.Children>
     <local:Page1 />
     <local:Page2 />
-     <local:MapsPage />
+    <local:MapsPage />
   </TabbedPage.Children>
 
 </TabbedPage>

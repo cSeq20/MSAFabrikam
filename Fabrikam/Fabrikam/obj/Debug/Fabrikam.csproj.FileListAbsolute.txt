@@ -92,3 +92,5 @@ C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\obj\De
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\bin\Debug\Fabrikam.dll.mdb
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\obj\Debug\Fabrikam.dll.mdb
 C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\bin\Debug\Fabrikam.dll.mdb
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\obj\Debug\Fabrikam.dll.mdb
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\bin\Debug\Fabrikam.dll.mdb
