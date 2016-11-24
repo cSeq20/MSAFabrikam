@@ -41,3 +41,5 @@ C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam\
 C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam\obj\Debug\Fabrikam.csprojResolveAssemblyReference.cache
 C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam\obj\Debug\Fabrikam.dll.mdb
 C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam\bin\Debug\Fabrikam.dll.mdb
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\obj\Debug\Fabrikam.dll.mdb
+C:\Users\Chris\Documents\GitHub\MSAFabrikam\MSAFabrikam\Fabrikam\Fabrikam\bin\Debug\Fabrikam.dll.mdb
