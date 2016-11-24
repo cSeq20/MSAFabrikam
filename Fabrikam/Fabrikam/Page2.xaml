@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Fabrikam.Page2"  
+             Title="Saved Menu"
+             Icon="notebook.png">
+<ContentPage.Content>
+  <ListView x:Name="menus" HasUnevenRows="True" IsPullToRefreshEnabled="true" 
+            IsRefreshing="{Binding isBusy, Mode=OneWay}"
+            Refreshing="refresh">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <ViewCell.ContextActions>
+            <MenuItem Text="Delete menu" CommandParameter="{Binding .}" Clicked="DeleteMenu" />
+          </ViewCell.ContextActions>
+          <StackLayout Orientation="Vertical" Padding="15" BackgroundColor="#FFF">
+             <Label Text="{Binding MenuName, StringFormat='Menu Name: {0}'}" FontSize="Large"/>
+                <Grid>
+                <Grid.ColumnDefinitions>
+                  <ColumnDefinition Width="0.5*" />
+                  <ColumnDefinition Width="0.5*" />
+                </Grid.ColumnDefinitions>
+                <Label Text="{Binding Desc}" Grid.Column="0" FontSize="11" FontAttributes="Italic"/>
+                <Label Text="{Binding TotalPrice, StringFormat='Total Price: ${0}'}" Grid.Column="1" />
+              </Grid>      
+
+          </StackLayout>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage.Content>
+
+</ContentPage>

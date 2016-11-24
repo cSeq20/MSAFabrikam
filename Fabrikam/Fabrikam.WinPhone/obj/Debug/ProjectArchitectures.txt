@@ -1,0 +1,2 @@
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam.WinPhone\Fabrikam.WinPhone.csproj;neutral
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\Fabrikam\Fabrikam\Fabrikam\Fabrikam.csproj;neutral
